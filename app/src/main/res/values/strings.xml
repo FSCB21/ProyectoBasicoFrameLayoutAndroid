@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FrameLayout</string>
+    <string name="login_tittle">¡Bienvenido A La super APP!</string>
+    <string name="login_user_input">Usuario</string>
+    <string name="login_pass_input">Contraseña</string>
+    <string name="login_button_text">Ingresar</string>
+    <string name="login_recover_pass">¿Olvidaste tu contraseña?</string>
+</resources>
